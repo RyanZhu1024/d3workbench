@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #79a0e2;
+      }
+
+      .cls-3 {
+        fill: #e6e6e6;
+      }
+    </style>
+  </defs>
+  <title>transform-Shape_2</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g id="Layer_2-2" data-name="Layer 2">
+        <g id="Layer_1-2-2" data-name="Layer 1-2">
+          <rect class="cls-1" width="32" height="32"/>
+          <g>
+            <rect class="cls-2" x="1" y="1" width="30" height="30"/>
+            <path class="cls-3" d="M30,2V30H2V2H30m2-2H0V32H32V0Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
